@@ -1,1 +1,53 @@
 
+[
+  {
+    address: 45.93.16.228,
+    friendlyName: 45.93.16.228,
+    Type: ip
+  },
+  {
+    address: 92.118.39.91,
+    friendlyName: 92.118.39.91,
+    Type: ip
+  },
+  {
+    address: 193.142.146.101,
+    friendlyName: 193.142.146.101,
+    Type: ip
+  },
+  {
+    address: 149.18.73.155,
+    friendlyName: 149.18.73.155,
+    Type: ip
+  },
+  {
+    address: 103.162.188.212,
+    friendlyName: 103.162.188.212,
+    Type: ip
+  },
+  {
+    address: 179.227.33.10,
+    friendlyName: 179.227.33.10,
+    Type: ip
+  },
+  {
+    address: 193.32.162.176,
+    friendlyName: 193.32.162.176,
+    Type: ip
+  },
+  {
+    address: 190.16.86.234,
+    friendlyName: 190.16.86.234,
+    Type: ip
+  },
+  {
+    address: 80.66.77.236,
+    friendlyName: 80.66.77.236,
+    Type: ip
+  },
+  {
+    address: 101.37.67.138,
+    friendlyName: 101.37.67.138,
+    Type: ip
+  }
+]
