@@ -24907,3 +24907,9 @@
 2a0a:d683:55:6b2c:16d:cc0f:1c86:ddb7
 2a0a:d683:a5:ec0f:5899:864a:2dcb:ae0a
 2a0a:d683:dc:fdfc:dbad:a7fc:789d:72c0
+2a0a:d683:a1:3e15:fb1e:46eb:4c62:d489
+34.38.39.152
+2a0a:d683:2d:709e:c5ff:a253:c350:700d
+2a0a:d683:ee:97fb:d288:1cf7:849e:2d40
+2a0a:d683:ef:763e:bca5:2df8:1a69:37fe
+2a0a:d683:db:5598:45e3:958b:590a:6b3a
